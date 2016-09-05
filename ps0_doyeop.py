@@ -1,7 +1,7 @@
 # Problem Set 0
 # Name : Doyeop Kim
 # Collaborators: no one\
-# Time: 17:50
+# Time: 10 min
 
 # 1. Asks the user to enter his/her last name.
 # 2. Asks the user to enter his/her first name.
